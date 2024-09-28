@@ -86,6 +86,10 @@ header {
     justify-content: center;
 }
 
+.foto-rua{
+    border-radius: 20px;
+}
+
 .footer {
     grid-area: footer;
     background-color: #6a6969;
